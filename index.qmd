@@ -1,0 +1,38 @@
+---
+title: ""
+about:
+    id: hero-heading
+    template: trestles
+    image-width: 20em
+    image-shape: rounded
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/carlos-poses-95901b149/
+        - icon: github
+          text: Github
+          url: https://github.com/CarlosPoses
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:carlosgonzalezposes@gmail.com
+        - text: "{{< fa brands orcid >}} ORCID"
+          url: https://orcid.org/0000-0002-6546-838X
+        - text: "{{< fa brands google >}} Google Scholar"
+          url: https://scholar.google.es/citations?user=mRqeybgAAAAJ&hl=es&oi=ao
+image: espe.jpg
+comments: false
+---
+
+## About
+
+I'm Dr. Esperanza Broullón, an oceanographer currently working as a post-doc at the University of Southampton on the [C-Streams project](https://c-streams.uk/), under supervision of Prof. [Alberto Naveira](https://www.southampton.ac.uk/people/5x2hkq/professor-alberto-naveira-garabato). This project focuses on understanding ocean currents and their global impacts. My background is in the physics of ocean interactions, and I bring this expertise to our research on the complex dynamics of ocean mixing.
+
+:::{#hero-heading}
+
+I completed my PhD studying the physical interactions within the ocean, specifically looking at thin layers of phytoplankton. These tiny organisms are crucial for marine ecosystems and the global carbon cycle. My research explored how these layers form, their stability, and their interactions with the surrounding water. This work highlighted the importance of phytoplankton and the complex processes that control their behavior in the ocean.
+
+At the University of Southampton, my current research focuses on ocean mixing in the Gulf Stream, one of the most powerful ocean currents. I analyze and model the turbulent mixing that happens when warm and cold water masses meet. By understanding these processes better, we can improve predictive models of ocean circulation and climate patterns. This research is essential for addressing climate change, marine ecosystems, and the health of our oceans.
+
+
+:::
+
+

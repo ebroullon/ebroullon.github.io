@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Espe Broullón"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: outreach.qmd
+        text: Outreach
+      - href: presentations.qmd
+        text: Talks & Posters
+  page-footer: 
+    center: "© Copyright 2024 Esperanza Broullón"
+format:
+  html:
+    theme: unite
+    css: styles.css
+    toc: true
+
+
+

@@ -12,9 +12,38 @@ body {
     color: #633a3a;
 }
 
+.title-custom {
+    font-size: 23px; /* Adjust the size as needed */
+    font-weight: 400; /* Font weight should be a number from 100 to 900 */
+    line-height: .5em; /* Adjust the line height for better readability */
+    margin-bottom: 0em; /* Adjust the space below the title */
+}
+.subtitle-custom {
+    font-size: 20px; /* Adjust the size as needed */
+    font-weight: 200; /* Adjust weight if needed */
+    line-height: 0em; /* Adjust line height if needed */
+    margin-bottom: 0em; /* Space below the subtitle */
+}
+
+body .page-columns {
+display: grid;
+gap: 0;
+grid-template-columns: [screen-start] 1.5em [screen-start-inset] 1fr [page-start page-start-inset] 35px [body-start-outset] 35px [body-start] 1.5em [body-content-start] minmax(500px, calc(850px - .5em)) [body-content-end] 1em [body-end] 35px [body-end-outset] minmax(75px, 145px) [page-end-inset] 35px [page-end] 1fr [screen-end-inset] 1.5em [screen-end];
+}
+#title-block-header {
+margin-block-end: 0rem;
+position: relative;
+margin-top: -1px;
+}
+
+div.quarto-about-trestles .about-entity .about-image {
+object-fit: cover;
+margin-bottom: .5em;
+}
+
 div.quarto-about-trestles .about-entity .about-link { /* linkedin, github... icons */
-    font-size: 1.5em;
-    padding: .25em .5em;
+    font-size: 1.6em;
+    padding: 0em 0em;
     border-radius: 0px;
 }
 div.quarto-about-trestles .about-entity .about-link { /* linkedin, github... icons color */
@@ -29,13 +58,13 @@ div.quarto-about-trestles .about-entity .about-link:hover {/* linkedin, github..
 div.quarto-about-trestles {
     display: flex !important;
     flex-direction: row;
-    padding-top: 1em !important;
-    padding-bottom:1em
+    padding-top: .2em !important;
+    padding-bottom: .2em
 }
 div.quarto-about-trestles .about-entity .about-links {
     flex-direction: row;
     column-gap: .2em;
-    row-gap: 15px;
+    row-gap: .2em;
     flex-wrap: wrap;
 }
 
@@ -101,3 +130,27 @@ a:hover {
     font-size: 16px; /* Smaller size for sidebar links */
 }
 
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns of equal width */
+    gap: 1em; /* Space between grid items */
+    margin-bottom: 1em; /* Space below the grid */
+}
+
+/* Each video item */
+.video-item {
+    position: relative;
+}
+
+.video-title {
+    font-size: 1em; /* Adjust as needed */
+    font-weight: bold;
+    margin-bottom: 0.5em; /* Space between title and video */
+    text-align: center; /* Center title if needed */
+}
+
+.video-item iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}

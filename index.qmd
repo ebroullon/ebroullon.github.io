@@ -1,14 +1,17 @@
 ---
-title: ""
+title: |
+    <span class="title-custom">Espe Broullón</span><br>
+    <span class="subtitle-custom">Postdoctoral Fellow in Physical Oceanography</span>
 about:
     id: hero-heading
     template: trestles
-    image-width: 15em
+    image-width: 16em
     image-shape: rounded
+    image: espe1.JPG
     links:
         - text: "{{< fa envelope >}}"
           url: mailto:E.Broullon-Mandado@soton.ac.uk
-        - text: "{{< fa brands google >}}"
+        - text: "{{< fa brands google >}}" 
           url: https://scholar.google.co.uk/citations?user=VtbfNEUAAAAJ&hl=es
         - icon: twitter
           url: https://twitter.com/ebroullon          
@@ -18,7 +21,6 @@ about:
           url: https://github.com/ebroullon
         - text: "{{< fa brands orcid >}}"
           url: https://orcid.org/0000-0002-6487-5792
-image: espe1.JPG
 comments: false
 ---
 

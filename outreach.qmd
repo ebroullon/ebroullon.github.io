@@ -16,10 +16,31 @@ format:
 
 ## Scientific video pills 
 
-{{< video https://www.youtube.com/watch?v=YQEJA2p6gzE >}}
+During my PhD, we created a series of video-pills (< 3 min) explaining some key concepts and stories related to the reaserch conducted. These were associated with the project REMEDIOS (RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS). The drawings were created by myself--I hope you like them! 
 
-## Local News
+<div class="video-grid">
+  <div class="video-item">
+   {{< video https://www.youtube.com/watch?v=f-fosxKyzQ8&t=6 >}}
+  </div>
+  <div class="video-item">
+   {{< video https://www.youtube.com/watch?v=e8DHxbhwPpI&t=2s >}}
+  </div>
+  <div class="video-item">
+   {{< video https://www.youtube.com/watch?v=2jNNQYyyVgk&t=36 >}}
+  </div>
+  <div class="video-item">
+   {{< video https://www.youtube.com/watch?v=YQEJA2p6gzE >}}
+  </div>
+</div>
 
+## News
 
+*  [Ig Nobel in Physics - La Ventana, SER (Spanish radio)](https://cadenaser.com/nacional/2023/09/15/la-actividad-sexual-de-las-anchoas-le-da-a-espana-uno-de-los-premios-cientificos-mas-disparatados-estos-son-los-ganadores-de-los-ig-nobel-cadena-ser/)
 
+* [Anchovies stirring up the sea may be influencing ocean mixing - New Scientist](https://www.newscientist.com/article/2315414-anchovies-stirring-up-the-sea-may-be-influencing-ocean-mixing/)
 
+* [Tiny Creatures May Play a Difficult-to-Detect Role in Ocean Mixing - EOS](https://eos.org/articles/tiny-creatures-may-play-a-difficult-to-detect-role-in-ocean-mixing)
+
+* [La UVigo explora las guaridas de las especies tóxicas que causan las mareas rojas - Faro de Vigo](https://www.uvigo.gal/sites/uvigo.gal/files/contents/clipping/2019-04/f150419.jpg)
+
+* [Ciencia para todos los públicos - Faro de Vigo](https://www.farodevigo.es/gran-vigo/2021/05/03/ciencia-publicos-50890253.html)

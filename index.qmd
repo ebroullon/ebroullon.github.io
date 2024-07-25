@@ -26,7 +26,7 @@ comments: false
 
 # About me  
 :::{#hero-heading}
-::: {.justify-text}
+::: {.left-align}
 I am an oceanographer using ocean observations with the aim of understanding how ocean dynamics shapes biogeochemistry and phytoplankton in the ocean. 
 
 Currently, I am a postdoctoral fellow in the Physical Oceanography group at the University of Southampton, National Oceanography Centre, learning about mixing. <!-- (UPLOAD THESIS). ENGADIR teaching assitant nas materias de ourense. a lecture en liverpool. seminars no noc e en cicese-->
@@ -48,9 +48,11 @@ I am participating on the [C-Streams project](https://c-streams.uk/){target="_bl
 
 ## PhD thesis
 ::: {.justify-text}
-Prior to this position, I completed my PhD in Oceanography at the University of Vigo, Spain. My PhD topic was related to [thin layers of phytoplankton](https://www.youtube.com/watch?v=YQEJA2p6gzE) in a highly dynamic coastal upwelling system (Galician Rías, Iberian Peninsula), their characteristics, mechanisms of formation and ecological relevance. I also investigated how turbulence and stratification patterns are related to the [extraordinary productivity](https://www.youtube.com/watch?v=e8DHxbhwPpI) in that region and their relationship with harmful algal blooms.
+Prior to this position, I completed my PhD in Oceanography at the University of Vigo, Spain. My PhD topic was related to [thin layers of phytoplankton](https://www.youtube.com/watch?v=YQEJA2p6gzE) in a highly dynamic coastal upwelling system (Galician Rías, Iberian Peninsula), their characteristics, mechanisms of formation and ecological relevance. I also investigated how [turbulence and stratification](https://youtu.be/2jNNQYyyVgk) patterns are related to the [extraordinary productivity](https://www.youtube.com/watch?v=e8DHxbhwPpI) in that region and their relationship with harmful algal blooms.
 
 During this period, I participated in a few cruises collecting microstructure measurements, which sparked my interest in observing the ocean. 
+
+![](esquema1.png)
 
 :::
 

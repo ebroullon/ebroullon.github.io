@@ -7,13 +7,6 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Outreachs",
-    "section": "",
-    "text": "Local News\n\n\nScience Communications"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Espe Broullón",
@@ -26,5 +19,12 @@
     "title": "Espe Broullón",
     "section": "",
     "text": "I’m Dr. Esperanza Broullón, an oceanographer currently working as a post-doc at the University of Southampton on the C-Streams project, under supervision of Prof. Alberto Naveira. This project focuses on understanding ocean currents and their global impacts. My background is in the physics of ocean interactions, and I bring this expertise to our research on the complex dynamics of ocean mixing.\n\n  \n    \n    \n  \n    \n     LinkedIn\n  \n  \n    \n     Github\n  \n  \n      Email\n  \n  \n      ORCID\n  \n  \n      Google Scholar\n  \n\n  \n  \nI completed my PhD studying the physical interactions within the ocean, specifically looking at thin layers of phytoplankton. These tiny organisms are crucial for marine ecosystems and the global carbon cycle. My research explored how these layers form, their stability, and their interactions with the surrounding water. This work highlighted the importance of phytoplankton and the complex processes that control their behavior in the ocean.\nAt the University of Southampton, my current research focuses on ocean mixing in the Gulf Stream, one of the most powerful ocean currents. I analyze and model the turbulent mixing that happens when warm and cold water masses meet. By understanding these processes better, we can improve predictive models of ocean circulation and climate patterns. This research is essential for addressing climate change, marine ecosystems, and the health of our oceans."
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Outreachs",
+    "section": "",
+    "text": "Local News\n\n\nScience Communications"
   }
 ]

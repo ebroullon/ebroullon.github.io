@@ -1,1 +1,103 @@
 /* css styles */
+.justify-text {
+    text-align: justify;
+}
+body {
+    font-size: 20px; /* Adjust the font size as needed */
+    color: #454545;
+}
+
+#hero-heading {
+    font-size: 22px; /* Adjust the font size as needed */
+    color: #633a3a;
+}
+
+div.quarto-about-trestles .about-entity .about-link { /* linkedin, github... icons */
+    font-size: 1.5em;
+    padding: .25em .5em;
+    border-radius: 0px;
+}
+div.quarto-about-trestles .about-entity .about-link { /* linkedin, github... icons color */
+color: #633a3a;
+text-decoration: none;
+border: none;
+}
+
+div.quarto-about-trestles .about-entity .about-link:hover {/* linkedin, github... icons color hover */
+    color: #944141;
+}
+div.quarto-about-trestles {
+    display: flex !important;
+    flex-direction: row;
+    padding-top: 1em !important;
+    padding-bottom:1em
+}
+div.quarto-about-trestles .about-entity .about-links {
+    flex-direction: row;
+    column-gap: .2em;
+    row-gap: 15px;
+    flex-wrap: wrap;
+}
+
+/* change hyperlink color */
+a {
+    color: #944141; /* Default color */
+}
+a:hover {
+    color: #67703a; /* Hover color */
+}
+
+.navbar {
+    background-color: #ffffff; /* Heading background color */
+}
+.navbar-nav .menu-text{
+    color: #944141; /* Home color at navigation bar */
+}
+.navbar-nav .menu-text:hover{
+    color: #67703a; /* Home color at navigation bar*/
+}
+.navbar-brand {
+    color: #944141; /* website title 'Espe Broullón'*/
+    font-size: 30px;
+}
+.navbar-brand:hover {
+    color: #67703a; /* website title 'Espe Broullón'*/
+}
+.nav-link {
+    color: #944141; /* sections */
+    font-size: 30px;
+}
+.nav-link:hover {
+    color: #67703a; /* sections */
+}
+
+/*.navbar {
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .11); /* shadow line below the hading */
+/*} */
+
+.main {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.sidebar nav[role=doc-toc] ul>li>a:hover, .sidebar nav[role=doc-toc] ul>li>ul>li>a:hover {
+    color: #67703a !important; /*List on the right hand side in 'home about' when clic (hover). NOT WORKING*/
+}
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    color: #944141 !important; /*List on the right hand side in 'home about' */
+    font-size: 18px;
+}
+
+.sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
+    border-left-color: #944141 !important; /*List on the right hand side in 'home about' */
+}
+.sidebar {
+    margin-top: 75px;
+}
+.sidebar nav[role=doc-toc] > h2, .sidebar nav[role=doc-toc] > .h2 {
+    font-size: 1.2rem;  /*font size in relative units. 1rem is approx 16pt */
+}
+.sidebar.margin-sidebar nav[role=doc-toc]>ul li a{
+    color: #454545; /* Same color for consistency */
+    font-size: 16px; /* Smaller size for sidebar links */
+}
+

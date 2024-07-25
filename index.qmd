@@ -3,36 +3,56 @@ title: ""
 about:
     id: hero-heading
     template: trestles
-    image-width: 20em
+    image-width: 15em
     image-shape: rounded
     links:
+        - text: "{{< fa envelope >}}"
+          url: mailto:E.Broullon-Mandado@soton.ac.uk
+        - text: "{{< fa brands google >}}"
+          url: https://scholar.google.co.uk/citations?user=VtbfNEUAAAAJ&hl=es
+        - icon: twitter
+          url: https://twitter.com/ebroullon          
         - icon: linkedin
-          text: LinkedIn
-          url: https://www.linkedin.com/in/carlos-poses-95901b149/
+          url: https://www.linkedin.com/in/ebroullon/
         - icon: github
-          text: Github
-          url: https://github.com/CarlosPoses
-        - text: "{{< fa envelope >}} Email"
-          url: mailto:carlosgonzalezposes@gmail.com
-        - text: "{{< fa brands orcid >}} ORCID"
-          url: https://orcid.org/0000-0002-6546-838X
-        - text: "{{< fa brands google >}} Google Scholar"
-          url: https://scholar.google.es/citations?user=mRqeybgAAAAJ&hl=es&oi=ao
-image: espe.jpg
+          url: https://github.com/ebroullon
+        - text: "{{< fa brands orcid >}}"
+          url: https://orcid.org/0000-0002-6487-5792
+image: espe1.JPG
 comments: false
 ---
 
-## About
-
-I'm Dr. Esperanza Broullón, an oceanographer currently working as a post-doc at the University of Southampton on the [C-Streams project](https://c-streams.uk/), under supervision of Prof. [Alberto Naveira](https://www.southampton.ac.uk/people/5x2hkq/professor-alberto-naveira-garabato). This project focuses on understanding ocean currents and their global impacts. My background is in the physics of ocean interactions, and I bring this expertise to our research on the complex dynamics of ocean mixing.
-
+# About me  
 :::{#hero-heading}
+::: {.justify-text}
+I am an oceanographer using ocean observations with the aim of understanding how ocean dynamics shapes biogeochemistry and phytoplankton in the ocean. 
 
-I completed my PhD studying the physical interactions within the ocean, specifically looking at thin layers of phytoplankton. These tiny organisms are crucial for marine ecosystems and the global carbon cycle. My research explored how these layers form, their stability, and their interactions with the surrounding water. This work highlighted the importance of phytoplankton and the complex processes that control their behavior in the ocean.
+Currently, I am a postdoctoral fellow in the Physical Oceanography group at the University of Southampton, National Oceanography Centre, learning about mixing. <!-- (UPLOAD THESIS). ENGADIR teaching assitant nas materias de ourense. a lecture en liverpool. seminars no noc e en cicese-->
+:::
 
-At the University of Southampton, my current research focuses on ocean mixing in the Gulf Stream, one of the most powerful ocean currents. I analyze and model the turbulent mixing that happens when warm and cold water masses meet. By understanding these processes better, we can improve predictive models of ocean circulation and climate patterns. This research is essential for addressing climate change, marine ecosystems, and the health of our oceans.
-
+## Interests
+:::{.left-align}
+* Ocean mixing
+* Physical-biological interactions
+* Observational oceanography
 
 :::
+:::
+
+## Postdoctoral project
+::: {.justify-text}
+I am participating on the [C-Streams project](https://c-streams.uk/){target="_blank"}, under supervision of Prof. [Alberto Naveira Garabato](https://www.southampton.ac.uk/people/5x2hkq/professor-alberto-naveira-garabato){target="_blank"} and following the advice of [Bieito Fernández Castro](https://www.southampton.ac.uk/people/5ygpzq/doctor-bieito-fernandez-castro){target="_blank"} and [Louis Clément](https://noc.ac.uk/n/Louis+Clement){target="_blank"}, among others. C-Streams addresses the role of the North Atlantic in the global carbon cycle as a contribution to one of the World Climate Research Programme Grand Challenges “*Carbon Feedbacks in the Climate System*”. Our task within this project is to understand how mixing processes modify the nutrients and carbon carried by the Gulf Stream as it enters the North Atlantic.
+:::
+
+## PhD thesis
+::: {.justify-text}
+Prior to this position, I completed my PhD in Oceanography at the University of Vigo, Spain. My PhD topic was related to [thin layers of phytoplankton](https://www.youtube.com/watch?v=YQEJA2p6gzE) in a highly dynamic coastal upwelling system (Galician Rías, Iberian Peninsula), their characteristics, mechanisms of formation and ecological relevance. I also investigated how turbulence and stratification patterns are related to the [extraordinary productivity](https://www.youtube.com/watch?v=e8DHxbhwPpI) in that region and their relationship with harmful algal blooms.
+
+During this period, I participated in a few cruises collecting microstructure measurements, which sparked my interest in observing the ocean. 
+
+:::
+
+
+
 
 

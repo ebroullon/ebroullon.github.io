@@ -29,7 +29,7 @@ comments: false
 ::: {.left-align}
 I am an oceanographer using ocean observations with the aim of understanding how ocean dynamics shapes biogeochemistry and phytoplankton in the ocean. 
 
-Currently, I am a postdoctoral fellow in the Physical Oceanography group at the University of Southampton, National Oceanography Centre, learning about mixing!
+Currently, I am a postdoctoral fellow in the Physical Oceanography group at the University of Southampton, National Oceanography Centre, learning about mixing. Below, you can read more about my research.
 :::
 
 ## Interests

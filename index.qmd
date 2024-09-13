@@ -50,9 +50,11 @@ I am participating on the [C-Streams project](https://c-streams.uk/){target="_bl
 ::: {.justify-text}
 Prior to this position, I completed [my PhD](http://hdl.handle.net/11093/7204) in Oceanography at the University of Vigo, Spain. My PhD topic was related to [thin layers of phytoplankton](https://www.youtube.com/watch?v=YQEJA2p6gzE) in a highly dynamic coastal upwelling system (Galician Rías, Iberian Peninsula), their characteristics, mechanisms of formation and ecological relevance. I also investigated how [turbulence and stratification](https://youtu.be/2jNNQYyyVgk) patterns are related to the [extraordinary productivity](https://www.youtube.com/watch?v=e8DHxbhwPpI) in that region and their relationship with harmful algal blooms.
 
-During this period, I participated in a few cruises collecting microstructure measurements, which sparked my interest in observing the ocean.
+During this period, I participated in a few cruises (REMEDIOS-TLP, ECOSUMA) collecting microstructure measurements, which sparked my interest in observing the ocean.
 
-![](esquema1.png)
+![Schematic of the thin layers of phytoplankton dynamics in an upwelling bay. From Chapter 4. Available at [http://hdl.handle.net/11093/7204](http://hdl.handle.net/11093/7204)](esquema1.png)
+
+Additionally, throughout my thesis, I have visited different research centres, such as Scripps Institution of Oceanography (host: Peter JS Franks), the University of Liverpool (host: Jonathan Sharples) or NOC Southampton. Some of the contributions to my publications have come out of these insightful visits!
 
 :::
 

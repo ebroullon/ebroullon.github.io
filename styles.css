@@ -1,3 +1,37 @@
+
+body {
+    color: #454545;
+}
+
+/* change hyperlink color */
+a {
+    color: #944141; /* Default color */
+}
+a:hover {
+    color: #67703a; /* Hover color */
+}
+
+.nav-link {
+    color: #944141; /* sections */
+    font-size: 30px;
+}
+
+.navbar{
+    background-color: #ffffff; /* Heading background color */
+}
+
+.navbar-title {
+    color: #944141;
+}
+
+.navbar-toggler {
+   color:  #944141;
+   background-color: #944141;
+}
+
+
+@media (min-width: 1025px){
+
 /* css styles */
 .justify-text {
     text-align: justify;
@@ -68,17 +102,9 @@ div.quarto-about-trestles .about-entity .about-links {
     flex-wrap: wrap;
 }
 
-/* change hyperlink color */
-a {
-    color: #944141; /* Default color */
-}
-a:hover {
-    color: #67703a; /* Hover color */
-}
 
-.navbar {
-    background-color: #ffffff; /* Heading background color */
-}
+
+
 .navbar-nav .menu-text{
     color: #944141; /* Home color at navigation bar */
 }
@@ -153,4 +179,5 @@ a:hover {
     width: 100%;
     height: 100%;
     border: none;
+}
 }

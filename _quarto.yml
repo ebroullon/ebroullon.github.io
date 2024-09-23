@@ -3,6 +3,7 @@ project:
   output-dir: docs
 website:
   title: "**Espe Broullón**"
+  description: "Website and projects of Espe Broullon"
   navbar:
     right:
       - href: index.qmd

@@ -6,7 +6,7 @@ editor: visual
 ::: justify-text
 -   **E. Broullón**, P. J. S. Franks, B. Fernández Castro, M. Gilcoto, A. Fuentes-Lema, M. Pérez-Lorenzo, E. Fernández, and B. Mouriño-Carballido. [*Rapid phytoplankton response to wind forcing influences productivity in upwelling bays*](https://doi.org/10.1002/lol2.10309){target="_blank"}. Limnology and Oceanography Letters, 3 2023. ISSN 2378-2242. [doi: 10.1002/lol2.10309](https://doi.org/10.1002/lol2.10309){target="_blank"}.
 
-  ![](fig_cap2.png)
+![](fig_cap2.png)
 
 -   **E. Broullón**, P. J. Franks, B. Fernández-Castro, M. Gilcoto, A. Fuentes-Lema, B. Mouriño-Carballido, M. Pérez, and E. Fernández. [*Rapid Fluctuations of the Subsurface Chlorophyll Maximum in Response to Wind Forcing in a Long, Narrow Bay - Supplementary Information*](https://data.mendeley.com/datasets/pm4r2pyyh3/2){target="_blank"}. Mendeley data, 2022.
 

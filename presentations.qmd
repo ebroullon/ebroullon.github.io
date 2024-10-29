@@ -1,4 +1,39 @@
 ---
-title: "Presentations"
+title: 'Recent talks and posters'
 editor: visual
 ---
+::: justify-text
+\
+
+(@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément and R.G. Williams. *A new approach for estimating isopycnal and diapycnal mixing from Argo float data*. Challenger Society Conference, September 2024.
+
+(@) B. Mouriño-Carballido, **E. Broullón**, A. Comesaña, B. Fernández Castro, D. Bouffard, P. Chouciño, E. Fernández, P.J.S. Franks, A. Fuentes-Lema, M. Gilcoto, M. López-Mozos, B. Marigomez, A.C. Naveira Garabato, E. Nogueira, M. Pérez-Lorenzo, M. Peña, B. Reguera and C. Souto. [*Role of mixing on phytoplankton bloom initiation, maintenance and dissipation in the Galician Rias (REMEDIOS)*](talks_posters/mourino_etal_isms24_v2.pdf){target="_blank"}. International Symposium of Marine Sciences, Valencia, Spain. July, 2024.
+
+(@) D. Fernández-Román, M. Fontela, **E. Broullón**, M.M. Varela, H. Farnelid, A. Fernández Carrera, B. Fernández Castro, S. Martínez-García, T. Rodríguez-Ramos and B. Moruiño-Carballido. [*Rapid response of diazotrophs to hydrography changes in an upwelling bay*](talks_posters/poster_isms_fernandez-roman.pdf){target="_blank"}. International Symposium of Marine Sciences, Valencia, Spain. July, 2024.
+
+(@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément and R.G. Williams. *A new approach for estimating isopycnal and diapycnal mixing from Argo float data*. Gordon Research Conference: Ocean Mixing, South Hadley, MA, US. June 2024.
+
+(@) **E. Broullón**. *Physical-biological interactions in the Galician Rias, NW-Iberia*. Seminar at MSc in Marine Ecology and Oceanography, CICESE, Mexico. November 2023.
+
+(@) D. Fernández-Román, M. Fontela, **E. Broullón**, M.M. Varela, B. Fernández-Castro, T. Rodríguez-Ramos, H. Farnelid, A. Fernández Carrera, S. Martínez-García and B. Moruiño-Carballido. [*Rapid response of diazotrophs to hydrography variability in an upwelling bay*](talks_posters/cimentos_2023.png){target="_blank"}. CIMentos (CIM-UVigo), Vigo, Spain. November 2023.
+
+(@) **E. Broullón**, B. Fernández Castro, C. Souto and B. Mouriño-Carballido. [*Contrasting mixing conditions in adjacent upwelling bays influence the occurrence of toxic plankton blooms*](talks_posters/posterBroullon_physics_of_the_ocean2023.pdf){target="_blank"}. Physics of the Ocean, Summer School, Bad Honnef, Germany. July 2023.
+
+(@) B. Fernández-Castro, M. Peña, E. Nogueira, M. Gilcoto, **E. Broullón**, A. Comsesaña, D. Bouffard, A.C. Naveira Garabato, B. Mouriño-Carballido. *Intense ocean mixing by fish spawning aggregations*. XXV CongressoL’Associazione Italiana di Oceanologia e Limnologia. June-July, 2021.
+
+(@) **E. Broullón**, P.J.S. Franks, B. Fernández-Castro, M. Gilcoto, B. Mouriño-Carballido. [*Rapid wind-driven fluctuations of the pycnocline drive phytoplankton blooms in a long narrow bay*](talks_posters/ASLO2021_broullon.pdf). Association for the Sciences of Limnology and Oceanography Virtual Conference June, 2021.
+
+(@) B. Mouriño-Carballido, Alba, R., **E. Broullón**, P. Chouciño, A. Fernández Carrera, B. Fernández-Castro, D. Fernández-Román, H. Farnelid, A. Fuentes-Lema, V. Joglar, M. Pérez-Lorenzo, S. Martínez, T. Rodríguez-Ramos, M.M. Varela. [*Short-term variability in the activity and composition of the diazotroph community in a coastal upwelling system*](talks_posters/Mourino_etal_ASLO21.pdf). Association for the Sciences of Limnology and Oceanography Virtual Conference June, 2021.
+
+(@) E. Velasco-Senovilla, B. Reguera, I. Ramilo, G. Casas, G. Fernández, B. Mouriño-Carballido, M. Gilcoto, **E. Broullón**, B. Fernández-Castro, M. Sourisseau, C. Jauzein, E. Nogueira. *Changes in community assemblages during the development of a thin layer of phytoplankton (TLP)*. Association for the Sciences of Limnology and Oceanography Virtual Conference June, 2021
+
+(@) **E. Broullón**, E. Crespo, P. Chouciño, A. Comesaña, B. Fernández-Castro, E. Fernández, A. Fuentes-Lema, M. Gilcoto, E. Nogueira, M. Pérez-Lorenzo, R. Reboreda, B. Reguera, C. Souto, E. Velasco-Senovilla, M. Villamaña, S. Villar and B. Mouriño-Carballido. [*Formation of thin layers of phytoplankton in the upwelling region off NW Iberia: biological growth versus physical accumulation*](Broullon_OSM2020.pdf). Ocean Sciences Meeting, San Diego, CA, US. 16-20 February, 2020.
+
+(@) **E. Broullón**, B. Mouriño-Carballido, P. Chouciño, Y. Pazos, E. Nogueira, B. Reguera, *Thin Layers and Harmful Phytoplankton in the Ría de Pontevedra (NW Iberia)*. XIII Reunión Ibérica de Algas Tóxicas y Biotoxinas Marinas, Vigo Spain. June, 2018.
+
+(@) B. Mouriño-Carballido, **E. Broullón**, P. Chouciño, B. Ferndánez Castro, M. López Mozos, M. GilCoto, E. Nogueira, Y. Pazos, R. Reboreda, B. Reguera, C. Souto, M. Villamaña. *Searching for Thin Layers of Phytoplankton in the Upwelling Region Off NW Iberia*. VI International Symposium on Marine Sciences, Vigo, Spain 20-22 June, 2018.
+
+(@) B. Mouriño-Carballido, **E. Broullón**, P. Chouciño, B. Fernández-Castro, M. GilCoto, M. Villamaña, E. Nogueira, R. Reboreda, B. Reguera, and C. Souto. *Thin layers of phytoplankton in the upwelling region off NW Iberia: occurrence, mechanisms of formation, and relationship with harmful phytoplankton*. Ocean Sciences Meeting, Portland, OR, US. February, 2018.
+
+
+:::

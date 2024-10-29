@@ -10,10 +10,11 @@ website:
         text: Home
       - href: publications.qmd
         text: Publications
-      - href: outreach.qmd
-        text: Outreach
       - href: presentations.qmd
         text: Talks & Posters
+      - href: outreach.qmd
+        text: Outreach
+
   page-footer: 
     center: "© Copyright Esperanza Broullón 2024"
 format:

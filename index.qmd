@@ -48,7 +48,7 @@ I am participating on the [C-Streams project](https://c-streams.uk/){target="_bl
 
 ## PhD thesis
 ::: {.justify-text}
-Prior to this position, I completed [my PhD](http://hdl.handle.net/11093/7204) in Oceanography at the University of Vigo, Spain. My PhD topic was related to [thin layers of phytoplankton](https://www.youtube.com/watch?v=YQEJA2p6gzE) in a highly dynamic coastal upwelling system (Galician Rías, Iberian Peninsula), their characteristics, mechanisms of formation and ecological relevance. I also investigated how [turbulence and stratification](https://youtu.be/2jNNQYyyVgk) patterns are related to the [extraordinary productivity](https://www.youtube.com/watch?v=e8DHxbhwPpI) in that region and their relationship with harmful algal blooms.
+Prior to this position, I completed [my PhD](http://hdl.handle.net/11093/7204) in Oceanography at the University of Vigo, Spain. My PhD topic was related to [thin layers of phytoplankton](https://www.youtube.com/watch?v=YQEJA2p6gzE) in a highly dynamic coastal upwelling system (Galician Rías, Iberian Peninsula), their characteristics, mechanisms of formation and ecological relevance. I also investigated how [turbulence and stratification](https://youtu.be/2jNNQYyyVgk) patterns are related to the [extraordinary productivity](https://www.youtube.com/watch?v=e8DHxbhwPpI) in that region and their relationship with harmful algal blooms. You can check the presentation [here](thesis_broullon2024.pdf).
 
 During this period, I participated in a few cruises (REMEDIOS-TLP, ECOSUMA) collecting microstructure measurements, which sparked my interest in observing the ocean.
 

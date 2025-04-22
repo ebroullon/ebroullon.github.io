@@ -183,3 +183,64 @@ margin-top: -1px;
     border: none;
 }
 }
+
+
+
+@media (max-width: 1024px) {
+  body {
+    font-size: 16px; /* Slightly smaller for readability */
+    padding: 0 1em; /* Add some padding on small screens */
+  }
+
+  #hero-heading {
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .title-custom {
+    font-size: 20px;
+    line-height: 1.2em;
+    text-align: center;
+  }
+
+  .subtitle-custom {
+    font-size: 18px;
+    line-height: 1.2em;
+    text-align: center;
+  }
+
+  .nav-link {
+    font-size: 20px; /* Reduce size of navbar items */
+  }
+
+  .navbar-brand {
+    font-size: 22px;
+  }
+
+  div.quarto-about-trestles {
+    flex-direction: column; /* Stack photo + text */
+    align-items: center;
+    text-align: center;
+  }
+
+  div.quarto-about-trestles .about-entity .about-links {
+    justify-content: center;
+  }
+
+  .video-grid {
+    grid-template-columns: 1fr; /* One column on small screens */
+  }
+
+  .sidebar {
+    margin-top: 1em;
+  }
+
+  .sidebar nav[role=doc-toc] > h2,
+  .sidebar nav[role=doc-toc] > .h2 {
+    font-size: 1rem;
+  }
+
+  .sidebar.margin-sidebar nav[role=doc-toc]>ul li a {
+    font-size: 14px;
+  }
+}

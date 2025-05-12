@@ -47,16 +47,20 @@ I am participating on the [C-Streams project](https://c-streams.uk/){target="_bl
 
 During the first year of my postdoctoral stage, we developed a tool to estimate isopycnal stirring and diapycnal mixing from finescale CTD data. The methodology was validated by comparing mixing estimates from Argo float finescale data and direct mixing microstructure observations in the eastern side of the North Atlantic subtropical gyre. This approach allowed us to get, at least, a decade of mixing timeseries.
 
-In relation to my postdoctoral research, I took part in the CarTRidge oceanographic cruise (2025) on board the RSS James Cook. CarTRidge was a multidisciplinary expedition aiming to test the hypothesis that the mid-Atlantic Ridge serves as a hotspot for carbon export to the deep ocean. To test that idea, we sailed from Rio de Janeiro (Brazil) to Walvis Bay (Namibia) for ~40 days, deploying a lot of instruments and taking hundreds of water samples. In the physics team, we measured turbulence deploying different VMP depending on the target depth (VMP2000 and VMP6000), as well as a novel equipment, the FloatRider. The project explored how tidal flows over the ridge generate enhanced turbulence, driving nutrients into the euphotic zone and boosting phytoplankton activity. This field experience gave me the opportunity to deepen my understanding of mixing processes and their connection to ocean productivity and the carbon cycle.
+In relation to my postdoctoral research, I took part in the CarTRidge oceanographic cruise (2025) on board the RSS James Cook. CarTRidge was a multidisciplinary expedition aiming to test the hypothesis that the mid-Atlantic Ridge serves as a hotspot for carbon export to the deep ocean. To test that idea, we sailed from Rio de Janeiro (Brazil) to Walvis Bay (Namibia) for ~40 days, deploying a lot of instruments and taking hundreds of water samples. In the physics team, we measured turbulence deploying different VMP equipment depending on the target depth (VMP2000 and VMP6000), as well as a novel turbulence float, the FloatRider. 
 
-![From top left to down right: VMP6000 at deck, FloatRider after recovery, VMP2000 at back deck, VMP6000 being deployed, CarTRidge Team.](cartridge0.png)
+![From left to right: VMP6000 at deck, FloatRider after recovery and VMP2000 at back deck.](cartridge0.png)
+
+The project explored how tidal flows over the ridge generate enhanced turbulence, driving nutrients into the euphotic zone and boosting phytoplankton activity. This field experience gave me the opportunity to deepen my understanding of mixing processes and their connection to ocean productivity and the carbon cycle.
+
+![VMP6000 being deployed and CarTRidge Team.](cartridge1.png)
 :::
 
 ## PhD thesis
 ::: {.justify-text}
 Prior to this position, I completed [my PhD](http://hdl.handle.net/11093/7204) in Oceanography at the University of Vigo, Spain. My PhD topic was related to [thin layers of phytoplankton](https://www.youtube.com/watch?v=YQEJA2p6gzE) in a highly dynamic coastal upwelling system (Galician Rías, Iberian Peninsula), their characteristics, mechanisms of formation and ecological relevance. I also investigated how [turbulence and stratification](https://youtu.be/2jNNQYyyVgk) patterns are related to the [extraordinary productivity](https://www.youtube.com/watch?v=e8DHxbhwPpI) in that region and their relationship with harmful algal blooms. You can check the presentation [here](thesis_broullon2024.pdf).
 
-During this period, I participated in a few cruises (REMEDIOS-TLP, ECOSUMA) collecting microstructure measurements, which sparked my interest in observing the ocean.
+During this period, I participated in a few cruises (REMEDIOS-TLP, ECOSUMA) collecting microstructure measurements with the MSS90, which sparked my interest in observing the ocean.
 
 ![Schematic of the thin layers of phytoplankton dynamics in an upwelling bay. From Chapter 4. Available at [http://hdl.handle.net/11093/7204](http://hdl.handle.net/11093/7204)](esquema1.png)
 

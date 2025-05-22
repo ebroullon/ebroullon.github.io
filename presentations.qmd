@@ -27,7 +27,7 @@ editor: visual
 
 (@) E. Velasco-Senovilla, B. Reguera, I. Ramilo, G. Casas, G. Fernández, B. Mouriño-Carballido, M. Gilcoto, **E. Broullón**, B. Fernández-Castro, M. Sourisseau, C. Jauzein, E. Nogueira. *Changes in community assemblages during the development of a thin layer of phytoplankton (TLP)*. Association for the Sciences of Limnology and Oceanography Virtual Conference June, 2021
 
-(@) **E. Broullón**, E. Crespo, P. Chouciño, A. Comesaña, B. Fernández-Castro, E. Fernández, A. Fuentes-Lema, M. Gilcoto, E. Nogueira, M. Pérez-Lorenzo, R. Reboreda, B. Reguera, C. Souto, E. Velasco-Senovilla, M. Villamaña, S. Villar and B. Mouriño-Carballido. [*Formation of thin layers of phytoplankton in the upwelling region off NW Iberia: biological growth versus physical accumulation*](Broullon_OSM2020.pdf). Ocean Sciences Meeting, San Diego, CA, US. 16-20 February, 2020.
+(@) **E. Broullón**, E. Crespo, P. Chouciño, A. Comesaña, B. Fernández-Castro, E. Fernández, A. Fuentes-Lema, M. Gilcoto, E. Nogueira, M. Pérez-Lorenzo, R. Reboreda, B. Reguera, C. Souto, E. Velasco-Senovilla, M. Villamaña, S. Villar and B. Mouriño-Carballido. [*Formation of thin layers of phytoplankton in the upwelling region off NW Iberia: biological growth versus physical accumulation*](talks_posters/Broullon_OSM2020.pdf). Ocean Sciences Meeting, San Diego, CA, US. 16-20 February, 2020.
 
 (@) **E. Broullón**, B. Mouriño-Carballido, P. Chouciño, Y. Pazos, E. Nogueira, B. Reguera, *Thin Layers and Harmful Phytoplankton in the Ría de Pontevedra (NW Iberia)*. XIII Reunión Ibérica de Algas Tóxicas y Biotoxinas Marinas, Vigo Spain. June, 2018.
 

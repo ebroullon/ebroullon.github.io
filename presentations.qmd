@@ -5,6 +5,13 @@ editor: visual
 ::: justify-text
 \
 
+(@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, R.G. Williams. Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations. BACO (IAPSO), Busan, South Korea, 2025
+
+(@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, M. Oltmanns, R.G. Williams. The importance of diapycnal and isopycnal mixing in the subtropical thermocline. Habitable Japan Hotspot III, Kyushu University, Fukuoka, 2025 (**invited speaker**)
+
+(@) **E. Broullón**. *Thin layers of phytoplankton in upwelling bays:
+occurrence, formation and relevance*. Seminar at Tokyo University of Marine Science and Technology, Tokyo, 2025 (**invited speaker**)
+
 (@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément and R.G. Williams. *A new approach for estimating isopycnal and diapycnal mixing from Argo float data*. Challenger Society Conference, September 2024.
 
 (@) B. Mouriño-Carballido, **E. Broullón**, A. Comesaña, B. Fernández Castro, D. Bouffard, P. Chouciño, E. Fernández, P.J.S. Franks, A. Fuentes-Lema, M. Gilcoto, M. López-Mozos, B. Marigomez, A.C. Naveira Garabato, E. Nogueira, M. Pérez-Lorenzo, M. Peña, B. Reguera and C. Souto. [*Role of mixing on phytoplankton bloom initiation, maintenance and dissipation in the Galician Rias (REMEDIOS)*](talks_posters/mourino_etal_isms24_v2.pdf){target="_blank"}. International Symposium of Marine Sciences, Valencia, Spain. July, 2024.

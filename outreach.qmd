@@ -15,7 +15,7 @@ format:
 
 ## Scientific video pills
 
-During my PhD, we created a series of video-pills (\< 3 min) explaining some key concepts and stories related to the reaserch conducted. These were associated with the project REMEDIOS (RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS). The drawings were created by myself--I hope you like them!
+During my PhD, we created a series of video-pills (\< 3 min) explaining some key concepts and stories related to the research conducted during the project REMEDIOS (RolE of Mixing on phytoplankton bloom initiation, maintEnance and DIssipatiOn in the galician ríaS). The drawings were created by myself--I hope you like them!
 
 ::: video-grid
 ::: video-item

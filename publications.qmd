@@ -4,11 +4,11 @@ editor: visual
 ---
 
 ::: justify-text
--   **E. Broullón**,   B. Fernández Castro, C. Souto, B. Marigómez, B. Mouriño-Carballido. Contrasting mixing conditions in adjacent upwelling bays shape the occurrence of thin layers of phytoplankton (submitted to JGR).
+-   **E. Broullón**, B. Fernández Castro, C. Souto, B. Marigómez, B. Mouriño-Carballido. Contrasting mixing conditions in adjacent upwelling bays shape the occurrence of thin layers of phytoplankton (under review in JGR).
 
--   **E. Broullón**,   B. Fernández Castro, A.C. Naveira Garabato, L. Clément, M. Oltmanns, R.G. Williams. Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations (under review in JPO).
+-   **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, M. Oltmanns, R.G. Williams. Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations (under review in JPO).
 
--   M. Fontela, D. Fernández-Román,   **E. Broullón**,   H. Farnelid, A. Fernández-Carrera,   E. Marañón,   S. Martínez-García, T. Rodríguez-Ramos,   M. M Varela,   B. Mouriño-Carballido. [*Puzzling out the ecological niche construction for nitrogen fixers in a coastal upwelling system*](https://doi.org/10.1093/ismeco/ycaf018){target="_blank"}. ISME Communications, 5, 1, 2025, ycaf018 [doi: 10.1093/ismeco/ycaf018](https://doi.org/10.1093/ismeco/ycaf018){target="_blank"}.
+-   M. Fontela, D. Fernández-Román, **E. Broullón**, H. Farnelid, A. Fernández-Carrera, E. Marañón, S. Martínez-García, T. Rodríguez-Ramos, M. M Varela, B. Mouriño-Carballido. [*Puzzling out the ecological niche construction for nitrogen fixers in a coastal upwelling system*](https://doi.org/10.1093/ismeco/ycaf018){target="_blank"}. ISME Communications, 5, 1, 2025, ycaf018 [doi: 10.1093/ismeco/ycaf018](https://doi.org/10.1093/ismeco/ycaf018){target="_blank"}.
 
 -   **E. Broullón**, P. J. S. Franks, B. Fernández Castro, M. Gilcoto, A. Fuentes-Lema, M. Pérez-Lorenzo, E. Fernández, and B. Mouriño-Carballido. [*Rapid phytoplankton response to wind forcing influences productivity in upwelling bays*](https://doi.org/10.1002/lol2.10309){target="_blank"}. Limnology and Oceanography Letters, 3 2023. ISSN 2378-2242. [doi: 10.1002/lol2.10309](https://doi.org/10.1002/lol2.10309){target="_blank"}.
 

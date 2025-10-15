@@ -5,6 +5,8 @@ editor: visual
 ::: justify-text
 \
 
+(@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, R.G. Williams. Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations. 8th Euro-Argo Science Meeting, Crete, Greece, 2025 (**Best poster award**)
+
 (@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, R.G. Williams. Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations. BACO (IAPSO), Busan, South Korea, 2025
 
 (@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, M. Oltmanns, R.G. Williams. The importance of diapycnal and isopycnal mixing in the subtropical thermocline. Habitable Japan Hotspot III, Kyushu University, Fukuoka, 2025 (**invited speaker**)

@@ -4,9 +4,12 @@ editor: visual
 ---
 
 ::: justify-text
--   **E. Broullón**, B. Fernández Castro, C. Souto, B. Marigómez, B. Mouriño-Carballido. Contrasting mixing conditions in adjacent upwelling bays shape the occurrence of thin layers of phytoplankton (under review in JGR).
 
--   **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, M. Oltmanns, R.G. Williams. [*Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations*](https://journals.ametsoc.org/view/journals/phoc/56/3/JPO-D-25-0090.1.xml?tab_body=pdf){target="_blank"}. Journal of Physical Oceanography,56,3. [doi: 10.1175/JPO-D-25-0090.1](https://doi.org/10.1175/JPO-D-25-0090.1){target="\"_blank"}.
+-   B. Fernández Castro, S. Groeskamp, **E. Broullón**, L. Clément, D.G. Evans, A.C. Naveira Garabato, & R.G. Williams (2026). [*Global Observational Estimates of Thermohaline Transformations by Interior Ocean Mixing*](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0265.1/JPO-D-25-0265.1.xml?tab_body=pdf){target="_blank"}. Journal of Physical Oceanography, 2026.
+
+-   **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, M. Oltmanns, R.G. Williams. [*Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations*](https://journals.ametsoc.org/view/journals/phoc/56/3/JPO-D-25-0090.1.xml?tab_body=pdf){target="_blank"}. Journal of Physical Oceanography,56,3, 2026. [doi: 10.1175/JPO-D-25-0090.1](https://doi.org/10.1175/JPO-D-25-0090.1){target="\"_blank"}.
+
+-   **E. Broullón**, B. Fernández Castro, C. Souto, B. Marigómez, B. Mouriño-Carballido. Contrasting mixing conditions in adjacent upwelling bays shape the occurrence of thin layers of phytoplankton (under review in JGR).
 
 -   M. Fontela, D. Fernández-Román, **E. Broullón**, H. Farnelid, A. Fernández-Carrera, E. Marañón, S. Martínez-García, T. Rodríguez-Ramos, M. M Varela, B. Mouriño-Carballido. [*Puzzling out the ecological niche construction for nitrogen fixers in a coastal upwelling system*](https://doi.org/10.1093/ismeco/ycaf018){target="_blank"}. ISME Communications, 5, 1, 2025, ycaf018 [doi: 10.1093/ismeco/ycaf018](https://doi.org/10.1093/ismeco/ycaf018){target="_blank"}.
 

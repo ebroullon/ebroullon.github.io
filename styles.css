@@ -8,7 +8,7 @@ a {
     color: #4d097e; /* Default color */
 }
 a:hover {
-    color: #add8e6; /* Hover color */
+    color: #1747e6; /* Hover color */
 }
 
 .nav-link {
@@ -21,7 +21,7 @@ a:hover {
 }
 
 .navbar-title {
-    background: linear-gradient(to left, #add8e6, #6a0dad); /* Light blue to dark purple */
+    background: linear-gradient(to left, #1747e6, #6a0dad); /* Light blue to dark purple */
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
@@ -48,7 +48,7 @@ border: none;
 }
 
 div.quarto-about-trestles .about-entity .about-link:hover {/* linkedin, github... icons color hover */
-    color: #add8e6;
+    color: #1747e6;
 }
 div.quarto-about-trestles {
     display: flex !important;
@@ -111,21 +111,21 @@ margin-top: -1px;
     color: #4d097e; /* Home color at navigation bar */
 }
 .navbar-nav .menu-text:hover{
-    color: #add8e6; /* Home color at navigation bar*/
+    color: #1747e6; /* Home color at navigation bar*/
 }
 .navbar-brand {
     color: #4d097e; /* website title 'Espe Broullón'*/
     font-size: 30px;
 }
 .navbar-brand:hover {
-    color: #add8e6; /* website title 'Espe Broullón'*/
+    color: #1747e6; /* website title 'Espe Broullón'*/
 }
 .nav-link {
     color: #4d097e; /* sections */
     font-size: 30px;
 }
 .nav-link:hover {
-    color: #add8e6; /* sections */
+    color: #1747e6; /* sections */
 }
 
 /*.navbar {
@@ -137,7 +137,7 @@ margin-top: -1px;
   margin-bottom: 1em;
 }
 .sidebar nav[role=doc-toc] ul>li>a:hover, .sidebar nav[role=doc-toc] ul>li>ul>li>a:hover {
-    color: #add8e6 !important; /*List on the right hand side in 'home about' when clic (hover). NOT WORKING*/
+    color: #1747e6 !important; /*List on the right hand side in 'home about' when clic (hover). NOT WORKING*/
 }
 .sidebar nav[role=doc-toc] ul>li>a.active, .sidebar nav[role=doc-toc] ul>li>ul>li>a.active {
     color: #4d097e !important; /*List on the right hand side in 'home about' */

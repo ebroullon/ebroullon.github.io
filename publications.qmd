@@ -5,7 +5,9 @@ editor: visual
 
 ::: justify-text
 
--   B. Fernández Castro, S. Groeskamp, **E. Broullón**, L. Clément, D.G. Evans, A.C. Naveira Garabato, & R.G. Williams (2026). [*Global Observational Estimates of Thermohaline Transformations by Interior Ocean Mixing*](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0265.1/JPO-D-25-0265.1.xml?tab_body=pdf){target="_blank"}. Journal of Physical Oceanography, 2026.
+-   **E. Broullón**, R.G. Williams, A.C. Naveira Garabato, L. Clément, D.G. Evans, A.C. Naveira Garabato, & B. Fernández Castro (2026b). *The lifecycle of tracer variance in the North Atlantic*. Accepted in Geophysical Research Letters.
+
+-   B. Fernández Castro, S. Groeskamp, **E. Broullón**, L. Clément, D.G. Evans, A.C. Naveira Garabato, & R.G. Williams (2026). [*Global Observational Estimates of Thermohaline Transformations by Interior Ocean Mixing*](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0265.1/JPO-D-25-0265.1.xml?tab_body=pdf){target="_blank"}. Journal of Physical Oceanography.
 
 -   **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, M. Oltmanns, R.G. Williams. [*Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations*](https://journals.ametsoc.org/view/journals/phoc/56/3/JPO-D-25-0090.1.xml?tab_body=pdf){target="_blank"}. Journal of Physical Oceanography,56,3, 2026. [doi: 10.1175/JPO-D-25-0090.1](https://doi.org/10.1175/JPO-D-25-0090.1){target="\"_blank"}.
 

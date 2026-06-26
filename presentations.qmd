@@ -5,6 +5,8 @@ editor: visual
 ::: justify-text
 \
 
+(@) **E. Broullón**, R.G. Williams, A.C. Naveira Garabato, L. Clément, B. Fernández Castro. *The Lifecycle of Tracer Variance in the North Atlantic*. Gordon Research Conference: Ocean Mixing, South Hadley, MA, US. June 2026
+
 (@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, R.G. Williams. *Mesoscale eddy stirring and diapycnal mixing for the subtropical North Atlantic and Gulf Stream*. Ocean Sciences Meeting, Glasgow, UK, February, 2026
 
 (@) **E. Broullón**, B. Fernández Castro, A.C. Naveira Garabato, L. Clément, R.G. Williams. *Isopycnal stirring and diapycnal mixing in the eastern North Atlantic inferred from Argo observations*. 8th Euro-Argo Science Meeting, Crete, Greece, September 2025 (**Best poster award**)

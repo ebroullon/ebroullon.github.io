@@ -6,7 +6,7 @@ editor: visual
 ::: justify-text
 -   **E. Broullón**, R.G. Williams, A.C. Naveira Garabato, L. Clément, D.G. Evans, A.C. Naveira Garabato, & B. Fernández Castro (2026). [*The lifecycle of tracer variance in the North Atlantic*](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122823){target="_blank"}. Geophysical Research Letters.
 
--   D. Fernandez Roman, M. Fontela, **E. Broullón**, H. Farnelid, A. Fernandez Carrera, B. Fernández Castro, R.A. Foster, S. Martinez, E. Nogueira, B. Reguera, T. Rodriguez-Ramos, M. Varela, E. Velasco-Senovilla &  B. Mouriño Carballido (2026). [*Transient ecological niches for diazotrophs in upwelling bays*](https://doi.org/10.22541/essoar.177248798.82721369/v1){target="_blank"}. Under review in Journal of Geophysical Research: Oceans.
+-   D. Fernandez Roman, M. Fontela, **E. Broullón**, H. Farnelid, A. Fernandez Carrera, B. Fernández Castro, R.A. Foster, S. Martinez, E. Nogueira, B. Reguera, T. Rodriguez-Ramos, M. Varela, E. Velasco-Senovilla & B. Mouriño Carballido (2026). [*Transient ecological niches for diazotrophs in upwelling bays*](https://doi.org/10.22541/essoar.177248798.82721369/v1){target="_blank"}. **Accepted** in Journal of Geophysical Research: Oceans.
 
 -   B. Fernández Castro, S. Groeskamp, **E. Broullón**, L. Clément, D.G. Evans, A.C. Naveira Garabato, & R.G. Williams (2026). [*Global Observational Estimates of Thermohaline Transformations by Interior Ocean Mixing*](https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-25-0265.1/JPO-D-25-0265.1.xml?tab_body=pdf){target="_blank"}. Journal of Physical Oceanography.
 
